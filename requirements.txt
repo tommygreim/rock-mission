@@ -28,4 +28,5 @@ tomesd
 torch
 torchdiffeq
 torchmetrics==0.11.4
+torchsde
 transformers==4.25.1
